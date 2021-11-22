@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633498211175",
+    "project_id": "dercrud-test",
+    "storage_bucket": "dercrud-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633498211175:android:9dceec101ebec5569415c2",
+        "android_client_info": {
+          "package_name": "com.derscrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633498211175-jb5pgd4rdim0at4shfkhd1v2luhmlgqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVNjTYKn3XjJGdFJPCdLkJ-s8X7ZvP_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633498211175-jb5pgd4rdim0at4shfkhd1v2luhmlgqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
